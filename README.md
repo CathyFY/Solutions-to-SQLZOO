@@ -1,1 +1,1 @@
-# fungi
+# Solutions to https://sqlzoo.net
