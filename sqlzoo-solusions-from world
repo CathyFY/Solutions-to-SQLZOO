@@ -75,5 +75,12 @@ WHERE name LIKE '%a%' AND name LIKE '%e%' AND name LIKE '%i%'
       AND name LIKE '%o%'  AND name LIKE '%u%' 
       AND name NOT LIKE '% %'
 
---#14
+----------SELECT QUIZ-----------
 
+1. E
+2. D
+3. B
+4. D
+5. B
+6. D
+7. C
