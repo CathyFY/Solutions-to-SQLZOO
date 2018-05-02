@@ -94,3 +94,12 @@ WHERE population > ALL(SELECT 3*population
                        WHERE x.continent = y.continent
                        AND y.population>0
                        AND x.name <> y.name)
+
+----------Nested SELECT QUIZ-----------
+1. C
+2. B
+3. A
+4. D
+5. B
+6. B
+7. B
