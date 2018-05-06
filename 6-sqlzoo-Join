@@ -96,3 +96,12 @@ ON (id = matchid)
 GROUP BY mdate,team1,team2
 ORDER BY mdate, matchid, team1, team2
 
+
+----------JOIN QUIZ-----------
+1. D
+2. C
+3. A
+4. A
+5. B
+6. C
+7. B
