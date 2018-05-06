@@ -127,3 +127,14 @@ ON actor.id = actorid
 WHERE movieid IN (SELECT movieid FROM casting JOIN actor 
                                  ON actorid = actor.id WHERE name = 'Art Garfunkel')
      AND name != 'Art Garfunkel'
+
+
+----------JOIN QUIZ2-----------
+
+1. C
+2. E
+3. C
+4. B
+5. D
+6. C
+7. B
